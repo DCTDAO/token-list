@@ -9,6 +9,14 @@
   "timestamp": "2021-01-01T00:00:00+00:00",
   "tokens": [
     {
+      "address": "0x5C3670E0Ac747b03CD0e3B3165b2fd69e6fB790A",
+      "chainId": 1287,
+      "name": "DCTDAO",
+      "symbol": "DCTDAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/DCTD.png"
+    },
+    {
       "address": "0x6bf5b6F9b59DF885bD241304C902C5bF7d816fbd",
       "chainId": 1287,
       "name": "tka",
