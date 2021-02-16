@@ -9,7 +9,7 @@
   "timestamp": "2021-01-01T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xD44d92D878Bb19649bE73702E514560743B3CF86",
+      "address": "0x27d160115a1E2aA7C4F709dDEB9dABbA82Ba5188",
       "chainId": 1287,
       "name": "DCTA Token",
       "symbol": "DCA",
@@ -17,7 +17,7 @@
       "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/dct.png"
     },
     {
-      "address": "0xe00b745b5e71337507d43a8584320c4192CA7994",
+      "address": "0x59a13b07fE44Aa7221Fd6C55A3E8df26d4E37a65",
       "chainId": 1287,
       "name": "DCTB Token",
       "symbol": "DCB",
