@@ -9,26 +9,18 @@
   "timestamp": "2021-01-01T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x5C3670E0Ac747b03CD0e3B3165b2fd69e6fB790A",
+      "address": "0xD44d92D878Bb19649bE73702E514560743B3CF86",
       "chainId": 1287,
-      "name": "DCTDAO",
-      "symbol": "DCTDAO",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/DCTD.png"
-    },
-    {
-      "address": "0x6bf5b6F9b59DF885bD241304C902C5bF7d816fbd",
-      "chainId": 1287,
-      "name": "tka",
-      "symbol": "tka",
+      "name": "DCTA Token",
+      "symbol": "DCA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/dct.png"
     },
     {
-      "address": "0x9745800493fC45ad2Dd122Dc267FB5eAd3e3D1f2",
+      "address": "0xe00b745b5e71337507d43a8584320c4192CA7994",
       "chainId": 1287,
-      "name": "tkb",
-      "symbol": "tkb",
+      "name": "DCTB Token",
+      "symbol": "DCB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/dct.png"
     }
