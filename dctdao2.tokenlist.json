@@ -39,7 +39,25 @@
       "symbol": "DCB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/dct.png"
+    },
+    {
+      "address": "0xB4B6D45d4706BBd93bb0e14e517B81453db0468C",
+      "chainId": 3,
+      "name": "DCTA Token",
+      "symbol": "DCA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/dct.png"
+    },
+    {
+      "address": "0x2fE357d6F828777c36209973227a75cB8afe7626",
+      "chainId": 3,
+      "name": "DCTB Token",
+      "symbol": "DCB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/dct.png"
     }
+
+    
   ],
   "version": {
     "major": 39,
