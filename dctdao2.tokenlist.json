@@ -57,6 +57,14 @@
       "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/weth.png"
     },
     {
+      "address": "0xbF61c387c9A9535140eCC572eeB22C7aa3FcF7A9",
+      "chainId": 43114,
+      "name": "DWrapped Ether",
+      "symbol": "DWETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/weth.png"
+    },
+    {
       "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
       "chainId": 43114,
       "name": "Verso Token",
@@ -69,7 +77,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
