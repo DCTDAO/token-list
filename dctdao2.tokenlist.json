@@ -22,7 +22,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/USDT.png"
+      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/usdt.png"
     },
     {
       "address": "0x8Db2dBdFB50480FE79F6576deAA4f6E68DcBfb15",
@@ -46,7 +46,7 @@
       "name": "DTether USD",
       "symbol": "DUSDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/DUSDT.png"
+      "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/dusdt.png"
     },
     {
       "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
@@ -54,7 +54,7 @@
       "name": "Verso Token",
       "symbol": "VSO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/VERSA.png"
+      "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/versa.png"
     }
   ],
   "version": {
