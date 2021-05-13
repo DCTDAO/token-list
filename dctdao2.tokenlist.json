@@ -21,7 +21,7 @@
       "chainId": 1,
       "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/usdt.png"
     },
     {
