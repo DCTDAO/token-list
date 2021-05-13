@@ -49,6 +49,22 @@
       "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/dusdt.png"
     },
     {
+      "chainId": 43114,
+      "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+      "decimals": 18,
+      "name": "Ether",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xde3A24028580884448a5397872046a019649b084",
+      "decimals": 6,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
+    },
+    {
       "address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
       "chainId": 43114,
       "name": "Verso Token",
@@ -59,7 +75,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
