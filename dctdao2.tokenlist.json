@@ -25,6 +25,14 @@
       "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/usdt.png"
     },
     {
+      "address": "0x4Fb721eF3Bf99e0f2c193847afA296b9257d3C30",
+      "chainId": 1,
+      "name": "TOK",
+      "symbol": "TOK",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/TOK.png"
+    },
+    {
       "address": "0x8Db2dBdFB50480FE79F6576deAA4f6E68DcBfb15",
       "chainId": 43114,
       "name": "DCTDAO",
@@ -71,11 +79,19 @@
       "symbol": "VSO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/versa.png"
+    },
+    {
+      "address": "0x51b8E837E5ECd20d15ba2Ad83A1A590BA6569a5e",
+      "chainId": 43114,
+      "name": "TOK",
+      "symbol": "TOK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/TOK.png"
     }
   ],
   "version": {
     "major": 4,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
