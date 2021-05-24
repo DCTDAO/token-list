@@ -81,17 +81,17 @@
       "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/versa.png"
     },
     {
-      "address": "0x51b8E837E5ECd20d15ba2Ad83A1A590BA6569a5e",
+      "address": "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347",
       "chainId": 43114,
       "name": "TOK",
       "symbol": "TOK",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/TOK.png"
     }
   ],
   "version": {
     "major": 4,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
