@@ -33,6 +33,14 @@
       "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/TOK.png"
     },
     {
+      "address": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
+      "chainId": 1,
+      "name": "SpiderDAO Token",
+      "symbol": "SPDR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DCTDAO/token-list/master/assets/SPDR.png"
+    },
+    {
       "address": "0x8Db2dBdFB50480FE79F6576deAA4f6E68DcBfb15",
       "chainId": 43114,
       "name": "DCTDAO",
@@ -87,11 +95,20 @@
       "symbol": "TOK",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/TOK.png"
+    },
+    {
+      "address": "0x85da29F4F8a59C2A1d0353da57c57edFB3A17F0b",
+      "chainId": 43114,
+      "name": "SpiderDAO Token",
+      "symbol": "SPDR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dctdao/token-list/master/assets/SPDR.png"
     }
+
   ],
   "version": {
     "major": 5,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
